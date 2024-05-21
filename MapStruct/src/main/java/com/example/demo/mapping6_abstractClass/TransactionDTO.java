@@ -1,4 +1,4 @@
-package com.example.demomapping6_abstractClass;
+package com.example.demo.mapping6_abstractClass;
 
 public class TransactionDTO {
     private String uuid;
